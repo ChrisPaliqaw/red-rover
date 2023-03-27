@@ -16,6 +16,7 @@
     "@redwoodjs/forms": "4.4.2",
     "@redwoodjs/router": "4.4.2",
     "@redwoodjs/web": "4.4.2",
+    "@viamrobotics/sdk": "^0.0.28",
     "prop-types": "15.8.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
